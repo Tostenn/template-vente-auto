@@ -1,0 +1,6 @@
+{
+  "name": "Vente et Location de Véhicules",
+  "description": "Showroom de vente et location de véhicules premium avec contact direct par WhatsApp et téléphone.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
